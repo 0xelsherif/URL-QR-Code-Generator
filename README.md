@@ -1,5 +1,5 @@
 # URL-QR-Code-Generator
-This is a simple web application that allows users to generate QR codes for URLs.
+This project provides a straightforward way for users to generate QR codes for URLs. By simply entering the desired URL and clicking a button, users can quickly obtain a QR code representation of the URL. The application validates the input URL format and dynamically generates the QR code using JavaScript and the QRCode.js library.
 
 ## Usage
 
@@ -39,6 +39,20 @@ git clone https://github.com/0xelsherif/URL-QR-Code-Generator.git
 cd URL-QR-Code-Generator
 ```
 3. Open the `index.html` file in a web browser.
+
+## Allowed Input
+
+- Valid URLs starting with 'ftp://', 'http://', or 'https://'
+- URLs must not contain spaces or special characters.
+
+### Examples
+
+- Valid: https://www.example.com
+- Valid: http://subdomain.example.com/page
+- Valid: ftp://ftp.example.com
+- Invalid: www.example.com (missing protocol)
+- Invalid: http://www example com (contains spaces)
+- Invalid: https://www.example.com/page with space (contains space)
 
 ## Preview
 
