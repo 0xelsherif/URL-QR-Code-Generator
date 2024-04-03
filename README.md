@@ -1,4 +1,4 @@
-# URL-QR-Code-Generator
+# URL QR Code Generator
 This project provides a straightforward way for users to generate QR codes for URLs. By simply entering the desired URL and clicking a button, users can quickly obtain a QR code representation of the URL. The application validates the input URL format and dynamically generates the QR code using JavaScript and the QRCode.js library.
 
 ## Usage
