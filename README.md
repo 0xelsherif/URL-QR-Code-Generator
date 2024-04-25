@@ -1,3 +1,15 @@
+<p align="center">
+<a href="https://github.com/0xelsherif/URL-QR-Code-Generator"><img src="https://img.shields.io/github/repo-size/0xelsherif/URL-QR-Code-Generator?style=social&logo=github"></a>
+<a href="https://github.com/0xelsherif/URL-QR-Code-Generator"><img src="https://img.shields.io/github/stars/0xelsherif/URL-QR-Code-Generator.svg?style=social&label=Star" alt="GitHub Stars"></a>
+<a href="https://github.com/0xelsherif/URL-QR-Code-Generator"><img src="https://img.shields.io/github/forks/0xelsherif/URL-QR-Code-Generator.svg?style=social&label=Fork" alt="GitHub Forks"></a>
+<a href="https://github.com/0xelsherif/URL-QR-Code-Generator/discussions"><img src="https://img.shields.io/github/discussions/0xelsherif/URL-QR-Code-Generator?style=social&logo=github" alt="GitHub Discussions"></a>
+<a href="https://github.com/0xelsherif/URL-QR-Code-Generator/issues"><img src="https://img.shields.io/github/issues/0xelsherif/URL-QR-Code-Generator?style=social&logo=github" alt="GitHub Issues"></a>
+<a href="https://codepen.io/0xelsherif/full/poBrEPJ" target="_blank"><img src="https://img.shields.io/badge/CodePen-Project-blue?logo=codepen" alt="CodePen Project"></a>
+<!-- <a href="https://0xelsherif.medium.com/mastering-text-analysis-with-javascript-a-step-by-step-guide-f9914fb5b5f1" target="_blank"><img src="https://img.shields.io/badge/Medium-Publication-green?logo=medium" alt="Medium Publication"></a> -->
+</p>
+
+
+
 # URL QR Code Generator
 This project provides a straightforward way for users to generate QR codes for URLs. By simply entering the desired URL and clicking a button, users can quickly obtain a QR code representation of the URL. The application validates the input URL format and dynamically generates the QR code using JavaScript and the QRCode.js library.
 
@@ -68,7 +80,13 @@ If you'd like to contribute to the project, whether it's fixing bugs, adding new
 
 Follow me on GitHub to stay updated with my latest projects and contributions:
 
+
 [![Follow me on GitHub](https://img.shields.io/github/followers/0xelsherif?label=Follow&style=social)](https://github.com/0xelsherif)
+<a href="https://twitter.com/intent/follow?screen_name=0xelsherif"><img alt="Follow @0xelsherif on Twitter" src="https://img.shields.io/twitter/follow/0xelsherif"></a>
+[![Connect with @0xelsherif on LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/0xelsherif)
+[![Follow @0xelsherif on Medium](https://img.shields.io/badge/Medium--black?style=social&logo=medium)](https://medium.com/@0xelsherif)
+[![Follow @0xelsherif on Codepen](https://img.shields.io/badge/Codepen--black?style=social&logo=codepen)](https://codepen.io/0xelsherif)
+
 
 ### Buy Me a Coffee ☕
 
